@@ -1,6 +1,8 @@
 # Patients-Information-Management-System
 Python (using Dummy Headed Doubly Circular Linked List)
 
+Basically this was my CSE220 Lab assignment, but as a first project of mine I wants to make it remarkable. So, I tried to make it more flawless and interaective. My faculty was really impressed and I got full marks. Anyone can use or learn from my code but if you copy and use or edit this then please let me know atleast.... cause I really wants to know how did you improve my code and what else did you have done.... :)
+
 
 DESCRIPTION:
 
